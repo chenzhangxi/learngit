@@ -9,3 +9,4 @@ creating a new branch is quick and simple
 aaaa
 master
 fastfeature
+no-ff
