@@ -5,4 +5,8 @@ git tracks changes of files
 aaa
 bbb
 creating a new branch is quick
-creating a new branch is quick &simple
+<<<<<<< HEAD
+creating a new branch is quick and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> featrue1
